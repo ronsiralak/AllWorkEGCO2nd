@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587732661 source:c:\users\ron\documents\c++\thanos\main.cpp
+	<iostream>
+	"Thanos.h"
+
+1587732661 c:\users\ron\documents\c++\thanos\thanos.h
+	"monster.h"
+
+1587732706 c:\users\ron\documents\c++\thanos\monster.h
+

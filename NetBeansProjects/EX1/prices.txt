@@ -1,0 +1,10 @@
+gamepad		750
+headphone	850
+keyboard	1690
+microphone	1020
+mouse		460
+printer		3750
+speaker		680
+stylus		990
+tripod		120
+webcam		2290

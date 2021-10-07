@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1588410232 source:c:\users\ron\documents\c++\covid-112\node.cpp
+	<iostream>
+	<string>
+	"NODE.h"
+	<cstdlib>
+
+1588410042 c:\users\ron\documents\c++\covid-112\node.h
+
+1588410400 source:c:\users\ron\documents\c++\covid-112\ll.cpp
+	<iostream>
+	<fstream>
+	"NODE.h"
+	"LL.h"
+	<cstdlib>
+
+1588409077 c:\users\ron\documents\c++\covid-112\ll.h
+
+1588336759 source:c:\users\ron\documents\c++\covid-112\ll_test.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<sstream>
+	"NODE.h"
+	"LL.h"
+
+1588409077 source:c:\users\ron\documents\c++\covid-112\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<sstream>
+	"NODE.h"
+	"LL.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585908520 source:c:\users\ron\documents\c++\ll_cpp\ll.cpp
+	<iostream>
+	"NODE.h"
+	"LL.h"
+
+1585915849 c:\users\ron\documents\c++\ll_cpp\node.h
+
+1456943176 c:\users\ron\documents\c++\ll_cpp\ll.h
+
+1585915825 source:c:\users\ron\documents\c++\ll_cpp\ll_test.cpp
+	<iostream>
+	<cstdlib>
+	"NODE.h"
+	"LL.h"
+
+1585915924 source:c:\users\ron\documents\c++\ll_cpp\node.cpp
+	<iostream>
+	"NODE.h"
+

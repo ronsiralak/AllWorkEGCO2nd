@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1588326177 source:c:\users\ron\documents\c++\cat&dog2\ll.cpp
+	<iostream>
+	"NODE.h"
+	"LL.h"
+
+1588327030 c:\users\ron\documents\c++\cat&dog2\node.h
+
+1456943176 c:\users\ron\documents\c++\cat&dog2\ll.h
+
+1588326647 source:c:\users\ron\documents\c++\cat&dog2\ll_test.cpp
+	<iostream>
+	<cstdlib>
+	"NODE.h"
+	"cat_dog.h"
+	"LL.h"
+
+1588327066 c:\users\ron\documents\c++\cat&dog2\cat_dog.h
+
+1588327080 source:c:\users\ron\documents\c++\cat&dog2\node.cpp
+	<iostream>
+	"NODE.h"
+
+1588321705 source:c:\users\ron\documents\c++\cat&dog2\main.cpp
+	<iostream>
+

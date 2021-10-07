@@ -1,0 +1,10 @@
+1, Arsenal, 		Premier League, 21, 7,10
+1, Barcelona, 		La Liga, 	26, 9, 3
+2, Ferrari, 		Italy, 		3, 7, 9, 7, 7, 1, 0, 0, 0, 0, 6
+1, Liverpool, 		Premier League, 30, 7, 1
+2, McLaren-Renault, 	United Kingdom, 0, 0, 1, 0, 3, 6, 3, 7, 2, 2, 0
+2, Mercedes, 		Germany, 	15,11, 6, 3, 2, 0, 1, 1, 1, 0, 8
+1, Real Madrid, 	La Liga, 	21, 5,12
+1, Southampton, 	Premier League, 9,12,17
+1, Villarreal, 		La Liga, 	10,14,14
+1, West Ham United, 	Premier League, 15, 7,16

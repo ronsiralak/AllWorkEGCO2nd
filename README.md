@@ -1,2 +1,2 @@
 # AllWorkEGCO2nd
-All aggignment in 2nd EGCO
+All assignment in 2nd EGCO
